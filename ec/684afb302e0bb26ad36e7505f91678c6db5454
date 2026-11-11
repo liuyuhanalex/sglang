@@ -1,0 +1,74 @@
+python/sglang/srt/managers/scheduler.py
+  s_f97966f22490b6::t_a52117eab0133f 6363-6366
+test/registered/unit/managers/test_scheduler_weight_version_tracking.py
+  s_f97966f22490b6::t_95650dd5bb2257 424-448
+python/sglang/srt/mem_cache/common.py
+  s_f97966f22490b6::t_e86b99f53d956b 62
+  s_f97966f22490b6::t_d00932c8b934a4 40,63-65,306-308,322-327,329-330,347-348,351-355
+test/registered/unit/mem_cache/test_pp_spec_retraction.py
+  s_f97966f22490b6::t_20e381b5e84124 1-237
+test/registered/unit/disaggregation/test_pd_pp_spec_bootstrap.py
+  s_f97966f22490b6::t_662a29cc0f2e57 4-5,20,126-129,140,146-168,171,181-187,189-198
+  s_f97966f22490b6::t_b0683a6e3dcf12 15,34,215,221-226,236-237,239-240
+  s_f97966f22490b6::t_72f788b7d6f8ca 188
+  s_f97966f22490b6::t_04d956faad8b78 1-3,6-14,16-19,21-33,35-125,130-139,141-145,169-170,172-180,199-214,216-220,227-235,238,241-249
+python/sglang/srt/managers/schedule_batch.py
+  s_f97966f22490b6::t_d00932c8b934a4 171,1554-1561,1569-1573,1585-1593,1596-1602,1604-1610,1615,1621,1626-1639,1861,1864-1866,3155-3164,3171
+python/sglang/srt/managers/scheduler_pp_mixin.py
+  s_f97966f22490b6::t_7aae5b9e1030f8 30,42,88-92,120,128-133,496-503,521,581-591,593,595-600,690-717,997-998,1010,1012,1018-1019,1205-1214,1653-1654,1730,1823,1843
+test/registered/unit/managers/scheduler_components/test_request_retirer.py
+  s_f97966f22490b6::t_8da947926c97b2 142-163
+python/sglang/srt/entrypoints/http_server.py
+  s_f97966f22490b6::t_e5d591535d7d07 1890-1893
+python/sglang/srt/disaggregation/decode.py
+  s_f97966f22490b6::t_04d956faad8b78 157,1408,1410,2808-2809,2844-2845,4180-4201,4204-4215,4230-4249,4290-4293,4438,4441-4449
+  s_f97966f22490b6::t_6b4ff0628bdeef 1406-1407,1409
+  s_f97966f22490b6::t_b0683a6e3dcf12 2701-2707,2709
+test/registered/unit/managers/test_tokenizer_manager_rid_cleanup.py
+  s_f97966f22490b6::t_ca47bb69764a5a 2013
+  s_f97966f22490b6::t_5ebeab05419b7a 33,40,2014-2060
+  s_f97966f22490b6::t_4480b432008d7e 2061-2062
+python/sglang/srt/managers/scheduler_components/request_retirer.py
+  s_f97966f22490b6::t_a52117eab0133f 22,26,52,108-114
+  s_f97966f22490b6::t_d00932c8b934a4 133
+  s_f97966f22490b6::t_2d0bd4f5ab2993 130-132
+test/registered/unit/entrypoints/test_http_server_pause.py
+  s_f97966f22490b6::t_e5d591535d7d07 1-49
+test/registered/unit/managers/test_pp_output_exchange_order.py
+  s_f97966f22490b6::t_8198b385458342 251-253,257-261,268,270,272,274-277,297-298,300
+  s_f97966f22490b6::t_80c6cf4d3be2c7 18,39-50,58-62,78-79,84-88,90,92-101,103-109,112-117,163-202
+  s_f97966f22490b6::t_2f7e25d2636653 30-33,123-162,203-250,254-256,262-267,269,271,273,278-296,299,301-304
+  s_f97966f22490b6::t_0a5b9655e5ef6a 305-306
+python/sglang/srt/disaggregation/decode_schedule_batch_mixin.py
+  s_f97966f22490b6::t_d84ad7fea739db 32,113-114,143-167
+test/registered/unit/managers/test_scheduler_pause_generation.py
+  s_f97966f22490b6::t_c20e3208c41c9a 342-357
+python/sglang/srt/managers/scheduler_components/weight_updater.py
+  s_f97966f22490b6::t_95650dd5bb2257 172-180,183-184,321-322,367-369
+test/registered/unit/spec/test_eagle_decode_bootstrap.py
+  s_e0a22ef70a064f::t_535807fb42eb08 1-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "ec684afb302e0bb26ad36e7505f91678c6db5454",
+  "prompts": {},
+  "sessions": {
+    "s_e0a22ef70a064f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1afd1-8229-76e0-8fa1-059ea6035859",
+        "model": "unknown"
+      },
+      "human_author": "liuyuhanalex <yuhanliu26@126.com>"
+    },
+    "s_f97966f22490b6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c9e3-f518-76f3-8030-c476726e156f",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "liuyuhanalex <yuhanliu26@126.com>"
+    }
+  }
+}
